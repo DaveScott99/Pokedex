@@ -9,7 +9,7 @@ const generateHTML = pokemons => pokemons.reduce((accumulator,{ name, id, types,
     const elementTypes = types.map(typeInfo => typeInfo.type.name);
     accumulator += `
         <li class="card ${elementTypes[0]}">
-            <img class="card-image" alt="${name}" src="${sprites.front_default}"/>
+            <img class="card-image" alt="${name}" src="${sprites['versions']['generation-v']['black-white']['animated']['front_default']}"/>
             <h2 class="card-title">${id}. ${name}</h2>
             <p class="card-subtitle">${elementTypes.join(" | ")}</p>
         </li>`
