@@ -10,6 +10,8 @@ Este é um site que simula uma pokedéx trazendo as informações sobre 150 poke
 
 Este site foi construido utilizando HTML5/CSS3 e JavaScript, para obter essas informações foi utilizada a API "PokeAPI", e para consumir os dados dessa API utilizei o Fetch do JavaScript.
 
+- Link do projeto: https://pokedexdavi.netlify.app/
+
 ## :computer: Tecnologias usadas:
 
 - `Javascript`
