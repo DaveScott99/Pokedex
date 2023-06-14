@@ -21,5 +21,3 @@ Este site foi construido utilizando HTML5/CSS3 e JavaScript, para obter essas in
 ## Imagens do projeto
 
 ![Captura de Tela 2022-11-24 às 21 15 06](https://user-images.githubusercontent.com/101915085/203877096-b3c6f364-2c4d-4623-8f88-27cb33915e4f.png)
-
-![Design sem nome](https://user-images.githubusercontent.com/101915085/203877878-1320c1c8-5295-48c5-ada3-da4290e95dfc.gif)
